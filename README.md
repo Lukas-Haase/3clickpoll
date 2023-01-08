@@ -23,6 +23,101 @@ The »3ClickPoll« feature will be accessible within the frag.jetzt Progressive 
 
 The »3ClickPoll« feature is a must-have addition for any instructor who is looking to create a dynamic and interactive learning environment for their students.
 
+# User Stories
+
+## User story: Creating a poll
+
+As an instructor or moderator, I want to be able to create a poll in two clicks by clicking the "Live Poll" button and selecting a poll template, so that I can quickly and easily gather feedback and understanding from my students.
+
+### Acceptance criteria
+
+- The instructor or moderator can click the "Live Poll" button to start creating a poll.
+- The instructor or moderator can select a poll template from the available options (ABCD or emoji response).
+- The poll creation process works and looks the same as in the quiz web app antworte.jetzt (based on the provided mock-up).
+- The instructor or moderator can write a question text for the poll, but is not required to.
+
+## User story: Sending a notification to participants
+
+As an instructor or moderator, I want to be able to send a real-time notification about the survey to all participants, so that they are aware of the poll and can provide their feedback and understanding.
+
+### Acceptance criteria
+
+- When the instructor or moderator clicks the "Start" button, a notification is sent to all participants.
+- The notification is sent in the following ways:
+  - As a pop-up if the participant is in the frag.jetzt room.
+  - As a web push notification if the participant is browsing in another tab in the browser.
+  - As a push notification to the participant's phone if they have frag.jetzt installed.
+
+## User story: Participating in a poll
+
+As a participant, I want to be able to see the question text and the voting template, and provide my response, so that I can contribute to the course discussion and provide my feedback and understanding.
+
+### Acceptance criteria
+
+- When a participant receives a notification about a poll, they are able to see the question text and the voting template.
+- The participant can provide their response by selecting one of the available options (ABCD or emoji).
+- Once the participant has voted, they are able to see real-time response statistics if enabled by the instructor or moderator.
+- The number of online users and the number of responses are dynamically displayed below the statistics.
+
+## User story: Running multiple polls
+
+As an instructor or moderator, I want to be able to run as many polls in my room as I want, and have the results saved with the date and time, so that I can gather multiple rounds of feedback and understanding from my students.
+
+### Acceptance criteria
+
+- The instructor or moderator can run as many polls in their room as they want.
+- The results of each poll are saved with the date and time.
+
+## User story: Comparing poll results
+
+As an instructor or moderator, I want to be able to select two surveys from the list of all surveys and see both response statistics displayed together in one chart, so that I can compare the results and gain insight into changes over time.
+
+### Acceptance criteria
+
+- The instructor or moderator can select two surveys from the list of all surveys.
+- The last two surveys are preselected by default.
+- Both response statistics are displayed together in one chart, allowing the instructor or moderator to easily compare the results.
+
+## User story: Viewing poll results
+
+As an instructor or moderator, I want to be able to view the results of a poll, including the responses of each participant, so that I can gain valuable insights and data that inform my teaching approaches and enhance the learning experience.
+
+### Acceptance criteria
+
+- The instructor or moderator can view the results of a poll by selecting it from the list of all surveys.
+- The results include the responses of each participant, as well as the real-time response statistics.
+- The results are displayed in a clear and organized manner, allowing the instructor or moderator to easily understand and analyze the data.
+
+## User story: Customizing poll templates
+
+As an instructor or moderator, I want to be able to customize the poll templates by adding or removing response options, so that I can create polls that are tailored to the specific needs and goals of my course.
+
+### Acceptance criteria
+
+- The instructor or moderator can access the poll template customization menu from the poll creation page.
+- The instructor or moderator can add or remove response options from the ABCD and emoji templates.
+- The instructor or moderator can save their custom templates for future use.
+
+## User story: Saving poll results
+
+As an instructor or moderator, I want to be able to save the results of a poll, so that I can access and refer to them at a later date.
+
+### Acceptance criteria
+
+- The instructor or moderator can save the results of a poll by clicking a designated button or using a designated keyboard shortcut.
+- The saved results include the responses of each participant, as well as the real-time response statistics.
+- The saved results can be accessed and viewed at a later date by the instructor or moderator.
+
+## User story: Returning to the Q&A forum
+
+As a participant, I want to be able to return to the Q&A forum after a poll has ended, so that I can continue participating in the course discussion.
+
+### Acceptance criteria
+
+- When the instructor or moderator ends the current survey, all participants are returned to the Q&A forum.
+
+
+
 ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
