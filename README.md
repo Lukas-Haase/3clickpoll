@@ -1,6 +1,27 @@
 # 3ClickPoll
 
+## Vision
 
+The »3ClickPoll« feature for frag.jetzt is a powerful tool that will bring a new level of collaboration and engagement to the learning experience for both instructors and participants.
+
+## Objective
+
+The »3ClickPoll« feature will revolutionize the way instructors interact with their students in large courses by allowing instructors to create customizable polls and surveys that can be sent to all course participants in real-time. Participants will then be able to quickly and easily provide feedback and understanding, allowing instructors to gather valuable insights and data that can inform their teaching approaches and enhance the learning experience.
+
+## Scope
+
+The »3ClickPoll« feature will be accessible within the frag.jetzt Progressive Web App (PWA). Participants will be informed of running polls through multiple channels, including pop-ups within the frag.jetzt room, web push notifications in the browser, and push notifications on their phones if they have frag.jetzt installed. The »3ClickPoll« feature will also allow participants to have a more active role in their own learning, as they will have the opportunity to contribute to the course discussion in real-time.
+
+## Benefits
+
+- The »3ClickPoll« feature is easy to use, with just a few clicks required to create and participate in polls. This saves time for instructors and makes it easy for participants to provide feedback and understanding.
+- The »3ClickPoll« feature allows instructors to gather valuable insights and data that can inform their teaching approaches and enhance the learning experience. This helps instructors to better understand their students and tailor their teaching to meet their needs.
+- The »3ClickPoll« feature allows participants to have a more active role in their own learning, as they will have the opportunity to contribute to the course discussion in real-time. This encourages participation and engagement in the learning process.
+- As a PWA, frag.jetzt can be accessed from any device with a web browser, making it easy for instructors and participants to use the app from anywhere, at any time. This increases flexibility and accessibility for both instructors and participants.
+
+## Conclusion
+
+The »3ClickPoll« feature is a must-have addition for any instructor who is looking to create a dynamic and interactive learning environment for their students.
 
 ## Getting started
 
