@@ -25,6 +25,17 @@ The »3ClickPoll« feature is a must-have addition for any instructor who is loo
 
 # User Stories
 
+## User story: Integration of live polling feature in frag.jetzt
+
+As a user of the frag.jetzt app, I want to be able to access the live polling feature within the app, so that I can easily use both features without having to switch between different apps or interfaces.
+
+### Acceptance criteria
+
+- The live polling feature is integrated into the frag.jetzt app as an iframe.
+- The process of creating a new poll and participating in it is the same in the frag.jetzt app as it is in the quiz web app [antworte.jetzt](https://antworte.jetzt/), including the user interface and navigation.
+- The user can easily access the live polling feature from within the frag.jetzt app.
+- The user can switch between the live polling feature and other features of the frag.jetzt app without experiencing any disruption or confusion.
+
 ## User story: Creating a poll
 
 As an instructor or moderator, I want to be able to create a poll in two clicks by clicking the "Live Poll" button and selecting a poll template, so that I can quickly and easily gather feedback and understanding from my students.
@@ -33,7 +44,6 @@ As an instructor or moderator, I want to be able to create a poll in two clicks 
 
 - The instructor or moderator can click the "Live Poll" button to start creating a poll.
 - The instructor or moderator can select a poll template from the available options (ABCD or emoji response).
-- The poll creation process works and looks the same as in the quiz web app antworte.jetzt (based on the provided mock-up).
 - The instructor or moderator can write a question text for the poll, but is not required to.
 
 ## User story: Sending a notification to participants
