@@ -27,14 +27,12 @@ The »3ClickPoll« feature is a must-have addition for any instructor who is loo
 
 ## User story: Integration of live polling feature in frag.jetzt
 
-As a user of the frag.jetzt app, I want to be able to access the live polling feature within the app, so that I can easily use both features without having to switch between different apps or interfaces.
+As a room creator or a moderator, I can access the Live Polling feature on any page of the room from the navigation menu. I can disable the feature in the room settings.
 
 ### Acceptance criteria
 
-- The live polling feature is integrated into the frag.jetzt app as an iframe.
-- The process of creating a new poll and participating in it is the same in the frag.jetzt app as it is in the quiz web app [antworte.jetzt](https://antworte.jetzt/), including the user interface and navigation.
-- The user can easily access the live polling feature from within the frag.jetzt app.
-- The user can switch between the live polling feature and other features of the frag.jetzt app without experiencing any disruption or confusion.
+- When booking a room, I am first directed to the room settings. There, analogous to the already available features "Enable Bonus archive", "Enable Quiz rally" and "Enable brainstorming", I can activate or deactivate the new feature. Initially, "Enable Live polling" is activated.
+- As the room creator or as a moderator can easily access the live polling mode from the navigation menu on any page of the room.
 
 ## User story: Creating a poll
 
