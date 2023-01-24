@@ -1,0 +1,25 @@
+<button routerLink="../home">cancel</button>
+
+<mat-menu #menu>
+  <button (click)="setTemplate(templateName)" *ngFor="let templateName of predefinedTemplateNames"
+          mat-menu-item>{{templateName}}</button>
+</mat-menu>
+<button [mat-menu-trigger-for]="menu" mat-button>test</button>
+
+<ng-container *ngIf="!!currentTemplate">
+
+  <p>{{currentTemplate.name}}</p>
+
+  <ng-container *ngIf="currentTemplate.template | guardType: templateGuard[TemplateKind.Text] as textTemplate">
+    <p>{{textTemplate.symbols}}</p>
+  </ng-container>
+
+  <ng-container *ngIf="currentTemplate.template | guardType: templateGuard[TemplateKind.Icon] as textTemplate">
+    <p>{{textTemplate.icons}}</p>
+  </ng-container>
+
+</ng-container>
+
+<ng-container *ngIf="!currentTemplate">
+  <p>please select a template</p>
+</ng-container>
