@@ -25,7 +25,7 @@ The »3ClickPoll« feature is a must-have addition for any instructor who is loo
 
 # User Stories
 
-## User story: Integration of live polling feature in frag.jetzt
+## User story \#1: Integration of live polling feature in frag.jetzt
 
 As a room creator or a moderator, I can access the Live Polling feature on any page of the room from the navigation menu. I can disable the feature in the room settings.
 
@@ -34,7 +34,7 @@ As a room creator or a moderator, I can access the Live Polling feature on any p
 - When booking a room, I am first directed to the room settings. There, analogous to the already available features "Enable Bonus archive", "Enable Quiz rally" and "Enable brainstorming", I can activate or deactivate the new feature. Initially, "Enable Live polling" is activated.
 - As the room creator or as a moderator can easily access the live polling mode from the navigation menu on any page of the room.
 
-## User story: Creating a poll
+## User story \#2: Creating a poll
 
 As an instructor or moderator, I want to be able to create a poll in two clicks by clicking the "Live Poll" button and selecting a poll template, so that I can quickly and easily gather feedback and understanding from my students.
 
@@ -44,7 +44,7 @@ As an instructor or moderator, I want to be able to create a poll in two clicks 
 - The instructor or moderator can select a poll template from the available options (ABCD or emoji response).
 - The instructor or moderator can write a question text for the poll, but is not required to.
 
-## User story: Sending a notification to participants
+## User story \#3: Sending a notification to participants
 
 As an instructor or moderator, I want to be able to send a real-time notification about the survey to all participants, so that they are aware of the poll and can provide their feedback and understanding.
 
@@ -56,7 +56,7 @@ As an instructor or moderator, I want to be able to send a real-time notificatio
   - As a web push notification if the participant is browsing in another tab in the browser.
   - As a push notification to the participant's phone if they have frag.jetzt installed.
 
-## User story: Participating in a poll
+## User story \#4: Participating in a poll
 
 As a participant, I want to be able to see the question text and the voting template, and provide my response, so that I can contribute to the course discussion and provide my feedback and understanding.
 
@@ -67,7 +67,7 @@ As a participant, I want to be able to see the question text and the voting temp
 - Once the participant has voted, they are able to see real-time response statistics if enabled by the instructor or moderator.
 - The number of online users and the number of responses are dynamically displayed below the statistics.
 
-## User story: Running multiple polls
+## User story \#5: Running multiple polls
 
 As an instructor or moderator, I want to be able to run as many polls in my room as I want, and have the results saved with the date and time, so that I can gather multiple rounds of feedback and understanding from my students.
 
@@ -76,7 +76,7 @@ As an instructor or moderator, I want to be able to run as many polls in my room
 - The instructor or moderator can run as many polls in their room as they want.
 - The results of each poll are saved with the date and time.
 
-## User story: Comparing poll results
+## User story \#6: Comparing poll results
 
 As an instructor or moderator, I want to be able to select two surveys from the list of all surveys and see both response statistics displayed together in one chart, so that I can compare the results and gain insight into changes over time.
 
@@ -86,7 +86,7 @@ As an instructor or moderator, I want to be able to select two surveys from the 
 - The last two surveys are preselected by default.
 - Both response statistics are displayed together in one chart, allowing the instructor or moderator to easily compare the results.
 
-## User story: Viewing poll results
+## User story \#7: Viewing poll results
 
 As an instructor or moderator, I want to be able to view the results of a poll, including the responses of each participant, so that I can gain valuable insights and data that inform my teaching approaches and enhance the learning experience.
 
@@ -96,7 +96,7 @@ As an instructor or moderator, I want to be able to view the results of a poll, 
 - The results include the responses of each participant, as well as the real-time response statistics.
 - The results are displayed in a clear and organized manner, allowing the instructor or moderator to easily understand and analyze the data.
 
-## User story: Customizing poll templates
+## User story \#8: Customizing poll templates
 
 As an instructor or moderator, I want to be able to customize the poll templates by adding or removing response options, so that I can create polls that are tailored to the specific needs and goals of my course.
 
@@ -106,7 +106,7 @@ As an instructor or moderator, I want to be able to customize the poll templates
 - The instructor or moderator can add or remove response options from the ABCD and emoji templates.
 - The instructor or moderator can save their custom templates for future use.
 
-## User story: Saving poll results
+## User story \#9: Saving poll results
 
 As an instructor or moderator, I want to be able to save the results of a poll, so that I can access and refer to them at a later date.
 
@@ -116,7 +116,7 @@ As an instructor or moderator, I want to be able to save the results of a poll, 
 - The saved results include the responses of each participant, as well as the real-time response statistics.
 - The saved results can be accessed and viewed at a later date by the instructor or moderator.
 
-## User story: Returning to the Q&A forum
+## User story \#10: Returning to the Q&A forum
 
 As a participant, I want to be able to return to the Q&A forum after a poll has ended, so that I can continue participating in the course discussion.
 
